@@ -1,8 +1,0 @@
-.nav {
-    display: flex;
-    flex-direction: column;
-}
-
-.active {
-    color: tomato;
-}

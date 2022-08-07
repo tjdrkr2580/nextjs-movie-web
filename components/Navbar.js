@@ -4,7 +4,7 @@ import { useRouter } from 'next/router'
 export default function Navbar() {
     const router = useRouter();
     return (
-        <>
+        <div>
         <nav>
             <Link href="/">
                 <a className={`${router.pathname === "/" ? "active" : ""}`}>Home</a>
@@ -28,9 +28,6 @@ export default function Navbar() {
                 }
             `}</style>
         </nav>
-        <div>
-            <h1>안녕</h1>
         </div>
-        </>
     )
 }
