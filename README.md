@@ -1,12 +1,5 @@
 # Random Number Game
 
-Github: https://github.com/tjdrkr2580/Random-number-game
-기간: 2022년 3월 14일
-설명: JavaScript를 활용한 UP DOWN 게임
-태그: CSS, HTML, JavaScript
-
-# Random Number Game
-
 ---
 
 ![ezgif-1-c1d4420c6f.gif](Random%20Number%20Game%20fba077fa6efe4bbc92c34a14b463cb43/ezgif-1-c1d4420c6f.gif)
